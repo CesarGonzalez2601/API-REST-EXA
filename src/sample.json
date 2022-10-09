@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "nombre": "Ahuachapán",
+        "cabecera": "Ahuachapán",
+        "dencidad":"269",
+        "area":"1239,6"
+    },
+    {
+        "id": "2",
+        "nombre": "San Salvador",
+        "cabecera": "San Salvador",
+        "dencidad":"1964,4",
+        "area":"886,2"
+    }
+]
