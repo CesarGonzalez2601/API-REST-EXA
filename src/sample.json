@@ -12,5 +12,54 @@
         "cabecera": "San Salvador",
         "dencidad":"1964,4",
         "area":"886,2"
+    },
+    {
+        "id": "",
+        "nombre": "Cuscatlán",
+        "cabecera": "Cojutepeque",
+        "dencidad":"333,9",
+        "area":"756,2"
+    },
+    {
+        "id": "",
+        "nombre": "La Paz",
+        "cabecera": "Zacatecoluca",
+        "dencidad":"268,2",
+        "area":"1223,6"
+    },
+    {	
+        "id": "",
+        "nombre": "Santa Ana",
+        "cabecera": "Santa Ana",
+        "dencidad":"282,8",
+        "area":"2023,2"
+    },
+    {		
+        "id": "",
+        "nombre": "Usulután",
+        "cabecera": "Usulután",
+        "dencidad":"171,8",
+        "area":"2130,4"
+    },
+    {			
+        "id": "",
+        "nombre": "La Unión",
+        "cabecera": "La Unión",
+        "dencidad":"126,9",
+        "area":"2074,3"
+    },
+    {			
+        "id": "",
+        "nombre": "Sonsonate",
+        "cabecera": "Sonsonate",
+        "dencidad":"378,5",
+        "area":"1225,2"
+    },
+    {	
+        "id": "",
+        "nombre": "San Vicente",
+        "cabecera": "San Vicente",
+        "dencidad":"147,4",
+        "area":"1184"
     }
 ]
